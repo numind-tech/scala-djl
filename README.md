@@ -1,6 +1,25 @@
 # scala-djl
 A repository to start using djl with scala quickly
 
+## Pre-requisite
+
+You need a working java environment with a recent jdk (21+ advised)
+
+## Opening the code
+
+You can use this project with most of the scala editors, here are directions
+to use some of them
+
+### Visual studio code
+
+Install the `metals` extension and open the project
+
+### IntelliJ idea
+
+Install the scala extension and open the project.
+If it fails or the project is not correctly recognized,
+delete the `.idea` directory and try again.
+
 ## Running the program
 
 To run the program, use the following command:
