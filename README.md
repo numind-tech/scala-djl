@@ -36,4 +36,5 @@ The entry point is the `src/tech/numind/Main.scala` file. Modify it to add your
 code, and feel free to add new files to architecture your program.
 
 More information on djl: [DJL official documentation](https://docs.djl.ai/)
+
 More information on scala: [Scala3 official documentation](https://docs.scala-lang.org/)
